@@ -1,2 +1,0 @@
-HEROKU_API_KEY: a85d2c70-fc4b-4db8-a0d7-d5cc83715029
-HEROKU_APP_NAME: pertama
