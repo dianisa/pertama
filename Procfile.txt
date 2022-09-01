@@ -1,1 +1,1 @@
-web: gunicorn pertama.wsgi --log-file -
+web: gunicorn project-pertama-dee.wsgi --log-file -
